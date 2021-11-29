@@ -3,14 +3,10 @@ Hi, my name is Pavel Miroshnichenko, I'm @prapeller at GitHub.
 STACK:
 
 - Python
-- Django
-- DjangoRestFramework
-- Flask
+- Django/DjangoRestFramework/Flask
 - SQL
-- Git
-- Ubuntu
-- HTML/CSS
-- JavaScript
+- Ubuntu/Git/Docker
+- HTML/CSS/JavaScript
 
 INTERESTS:
 
