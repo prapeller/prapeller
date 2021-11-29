@@ -1,18 +1,33 @@
-- 👋 Hi, my name is Pavel Miroshnichenko, I'm @prapeller here at github.
-- 👀 I’m interested in coding something interesting that can help people to solve their problems and needs.
-- For now I only studying these matters, so no so big specialist yet. But as far as I understood from being a little acquainted with studying IT sphere during 2021 year - I will study in this sphere forever. Because its universe is infinite and its spreading with time)) And this fact makes it more interesting. I hope some day i will be part of some interesting IT project where I will be usefull.
-- 🌱 I’m currently studying at Russian GeekBrains online university where have finished courses of Python basics, SQL basics, Git basics, Ubuntu basics, HTML/CSS basics now will start JavaScript basics. Further will start Django basics soon. Also I study a little coding from Udemy courses, FreeCodeCamp courses and many other sources from youtube and other internet, including documentation ofcourse))
-- Recently during studying I started working on my petproject called 'ChineseBreak', service that now is seen to me as some kind of web/mobile application that will allow people to study languages for free, in interactive form, from skratch.
-I almost finished admin panel using flask web framework where administators of this service will be able to fill studying programs for lessons consisting of interactive tasks, to upload media for them etc... You can find repo of this admin panel here https://github.com/prapeller/chinesebreak.com
-The basic idea of this application was took from currently well being and great working mobile application called HelloChinese. I started to study Chinese a little last year, have been studied it at that HelloChinese application also, and understood that it would be great to create something similar myself.
-So, everybody who will meet some common functionality in my future application and HelloChinese' application - dont worry, i dont hide that original application is HelloChinese.
-'Chinesebreak' will be opensource project, not for money, free and mainly for improving my understanding how to build some kind of these applications.
-In these circumstances, that would be great if someone will split this interest with me. I would be very grad to explain details of that petproject.
-- 📫 How to reach me:
-telegram: @pyprap
-email: pavelmirosh@gmail.com
+Hi, my name is Pavel Miroshnichenko, I'm @prapeller at GitHub.
 
-<!---
-prapeller/prapeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+STACK:
+
+- Python
+- Django
+- DjangoRestFramework
+- Flask
+- SQL
+- Git
+- Ubuntu
+- HTML/CSS
+- JavaScript
+
+INTERESTS:
+
+- Family
+- Life / Communications
+- Chess
+- Politology / History / Languages / International Trading
+- 
+I’m interested in usefull servises that can help people to solve their problems and needs. IT - great tool for creating such servises.
+For now I only studying these matters, so not huge specialist yet. But as far as I understood from being a little acquainted with studying IT during 2021 year - I will study it forever. Because it's universe is infinite and its spreading with time. And this fact makes the hole process more interesting. I hope some day I will be useful part of some interesting IT project.
+
+🌱 CV:
+
+I’m currently passing courses at https://gb.ru/ where have finished basics of Python, SQL, Git, Ubuntu, HTML/CSS, JavaScript, Django, Djangorestframework starts soon. Also I take from Udemy, YouTube and other sources from internet including documentation of course)) Almost all courses that I pass - I push them to my repos at GitHub here so it could be tracked like summary what I've learned already.
+
+I was passionate about studying Chinese language 2 years ago, probably because my main partners in current occupation are from China. I did that using mobile application, and some day I wanted to try create something similar myself. I wanted to create application that will allow people to study languages for free, in interactive form, from scratch. For now I made admin panel using flask web micro framework. You can find repo of this admin panel here https://github.com/prapeller/chinesebreak.com. Now it has the only functuanality for admins to implement CRUD operations with lessons consisting of interactive tasks, to upload media for them etc. Now I want to make the same admin panel with Django framework, bcz recently studied some of that. Maybe someday that will be some kind of pet-project)) That was how I was interested in IT. 
+
+For now I understood a little more about it. But still theres so much to learn and thats encourage me a lot! All this was my hobby during last 1,5 year, bcz my permanent job now is connected with logistics and international trading. What I want from IT now - development myself as professional in this sphere, considering it as main doing of life with taking part in real and interesting projects.
+
+📫 How to reach me: telegram: @pyprap email: pavelmirosh@gmail.com / prapeller@mail.ru
