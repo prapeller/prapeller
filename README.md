@@ -18,7 +18,7 @@ INTERESTS:
 - Life / Communications
 - Chess
 - Politology / History / Languages / International Trading
-- 
+
 I’m interested in usefull servises that can help people to solve their problems and needs. IT - great tool for creating such servises.
 For now I only studying these matters, so not huge specialist yet. But as far as I understood from being a little acquainted with studying IT during 2021 year - I will study it forever. Because it's universe is infinite and its spreading with time. And this fact makes the whole process more interesting. I hope some day I will be useful part of some interesting product or service.
 
