@@ -1,6 +1,6 @@
 Hi, my name is Pavel Miroshnichenko, I'm @prapeller at GitHub.
 
-STACK:
+🔧 STACK:
 
 - Python
 - Django / DRF / Flask
@@ -8,7 +8,7 @@ STACK:
 - Linux Ubuntu / Git / Docker
 - JavaScript / HTML / CSS
 
-INTERESTS:
+🍹 INTERESTS:
 
 - Family
 - Life / Communications
