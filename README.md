@@ -1,4 +1,4 @@
-Hi, my name is Pavel Miroshnichenko, I'm @prapeller at GitHub.
+Hi, my name is Pavel Miroshnichenko,
 
 🔧 STACK:
 
